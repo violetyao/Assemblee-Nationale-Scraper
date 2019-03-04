@@ -1,0 +1,1053 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fr-FR"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="fr-FR"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="fr-FR"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="fr-FR"> <!--<![endif]-->
+	<head>
+		<title>Collectivités : baux ruraux pour les communes d&#039;au plus 3.500 habitants (Dossier législatif en version repliée) - Assemblée nationale</title>
+		<link rel="shortcut icon" href="/dyn/bundles/app/assets/favicon.ico" type="image/x-ico">
+						<meta charset="utf-8">
+<meta name="Content-Type" content="text/html; charset=utf-8">
+<meta name="Content-language" content="fr-FR">
+<meta name="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=954">
+<meta name="author" content="Assemblée Nationale">
+<meta name="copyright" content="Assemblée Nationale">
+<meta name="description" content="Presentation de l'Assemblee nationale, du palais Bourbon, de ses membres (deputes), de son fonctionnement et de son actualite : agenda, travaux en cours (amendements, rapports, commissions, lois), textes et dossiers (legislatifs ou d'actualite)...">
+<meta name="keywords" content="député, hémicycle, Palais Bourbon, Assemblée nationale, parlementaire">
+<meta property="og:site_name" content="Assemblée nationale">
+<meta property="og:url" content="http://www.assemblee-nationale.fr/dyn/10/dossiers/9602399596">
+<meta name="twitter:site" content="@AssembleeNat">
+		
+	<meta property="og:title" content="Collectivités : baux ruraux pour les communes d&#039;au plus 3.500 habitants">
+	<meta property="og:description" content="Dossier législatif sur Collectivités : baux ruraux pour les communes d&#039;au plus 3.500 habitants">
+		
+					<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">			<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+							<link href="/dyn/css/main.css" rel="stylesheet" type="text/css" />
+						
+							<link rel="stylesheet" type="text/css" href="/dyn/css/ada6652.css" />
+			
+							<link rel="stylesheet" type="text/css" href="/dyn/css/be0a16d.css" media="print" />
+								
+				<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="/dyn/js/85b6805.js"></script>
+	</head>
+	<body>
+		<div id="cookies-cnil-banner" style="display: none;">
+    En poursuivant votre navigation sur ce site, vous acceptez l'utilisation de cookies par Google Analytics pour réaliser des statistiques de visites.
+    <a href="https://www.cnil.fr/fr/atom/14976" id="cookies-cnil-more">En savoir plus</a>
+    <button id="cookies-cnil-reject">Je refuse</button>
+    <button id="cookies-cnil-accept">J'accepte</button>
+</div>		<div id="header">
+			<header>
+				<div id="header-bg" class="container-an">
+					<a id="logo" href="http://www.assemblee-nationale.fr">
+						<img src="/dyn/bundles/app/assets/images/layout/logo.png" alt="Logo de l'Assemblée nationale" />
+					</a>
+					<div id="header-title">Assemblée nationale</div>
+				</div>
+			</header>
+			<nav>
+	<ul id="navigation" class="sf-menu sf-navbar container">
+		<li id="nav-home">
+			<a href="http://www.assemblee-nationale.fr" accesskey="1">Accueil</a>
+		</li>
+		<li tabindex="1" id="nav-deputies">
+			<a title="Ouvrir le menu les députés" href="#menupresident">Les<br />députés<span class="bord"> </span></a>
+			<ul>
+				<li><a id="menupresident" href="http://presidence.assemblee-nationale.fr">Le Président</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/qui">577 députés</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/deputes2/les-collaborateurs">Les collaborateurs</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/15/le-bureau-de-l-assemblee-nationale">Le Bureau</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/15/la-conference-des-presidents">La Conférence des Présidents</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/15/le-college-des-questeurs">Le Collège des Questeurs</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/15/les-groupes-politiques/">Les Groupes politiques</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/decouvrir-l-assemblee/role-et-pouvoirs-de-l-assemblee-nationale/le-depute/le-statut-du-depute">Statut des députes</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/deputes2/deontologie-a-l-assemblee-nationale">Déontologie</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/deputes2/elections-legislatives-des-11-et-18-juin-2017">Élections législatives</a></li>
+				<li><a href="http://presidence-15-derugy.assemblee-nationale.fr/">Ancien Président</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/sycomore/recherche">Anciens députés</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/deputes/liste/alphabetique">Contacter son député</a></li>
+				<li class="d-none"><a href="#nav-org-tra">Ouvrir le menu dans l'hémicycle</a></li>
+			</ul>
+		</li>
+		<li tabindex="2" id="nav-org-tra">
+			<a title="Ouvrir le menu dans l'hémicycle" href="#menuodj">Dans<br />l'Hémicycle<span class="bord"> </span></a>
+			<ul>
+				<li><a id="menuodj" href="http://www.assemblee-nationale.fr/agendas/odj.asp">Ordre du jour</a></li>
+				<li><a href="http://www.assemblee-nationale.fr/15/seance/previsionnel.asp">Calendrier de la session</a></li>
+				<li><a href="http://www.assemblee-nationale.fr/15/debats/index.asp">Comptes rendus des séances</a></li>
+				<li>
+					<a href="#">Scrutins<span class="sf-sub-indicator"></span></a>
+					<ul>
+						<li><a href="http://www2.assemblee-nationale.fr/scrutins/liste/(legislature)/15">Tous les scrutins publics</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/scrutins/liste/(legislature)/15/(type)/SOR">Les scrutins publics ordinaires</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/scrutins/liste/(legislature)/15/(type)/SSO">Les scrutins solennels sur un texte</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/scrutins/liste/(legislature)/15/(type)/AUT">Autres scrutins solennels (déclarations, motions de censure…)</a></li>
+					</ul>
+				</li>
+				<li><a href="http://www2.assemblee-nationale.fr/le-congres-du-parlement">Le Congrès</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/dans-l-hemicycle/engagements-de-responsabilite-du-gouvernement-et-motions-de-censures">Engagements de responsabilité et motions de censure</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/dans-l-hemicycle/budget-et-securite-sociale">Budget et sécurité sociale</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/informations-pratiques/assister-a-une-seance-publique">Assister à une séance</a></li>
+				<li>
+					<a href="#">Archives<span class="sf-sub-indicator"></span></a>
+					<ul>
+					
+						<li><a href="http://www.assemblee-nationale.fr/14/documents/archives-14leg.asp">XIV<sup>e</sup> législature</a></li>
+						<li><a href="http://www.assemblee-nationale.fr/13/documents/archives-13leg.asp">XIII<sup>e</sup> législature</a></li>
+						<li><a href="http://www.assemblee-nationale.fr/12/documents/archives-12leg.asp">XII<sup>e</sup> législature</a></li>
+						<li><a href="http://www.assemblee-nationale.fr/11/documents/archives-11leg.asp">XI<sup>e</sup> législature</a></li>
+						<li><a href="http://archives.assemblee-nationale.fr/">Autres législatures</a></li>
+					</ul>
+				</li>
+				<li class="d-none"><a href="#nav-commissions">Ouvrir le menu commissions et autres instances</a></li>
+			</ul>
+		</li>
+		<li tabindex="3" id="nav-commissions">
+			<a title="Ouvrir le menu commissions et autres instances" href="#menuagenda">Commissions et<br />autres instances<span class="bord"> </span></a>
+			<ul>
+				<li><a id="menuagenda" href="http://www.assemblee-nationale.fr/agendas/index.asp">Agendas</a></li>
+				<li>
+					<a href="#">Les Commissions permanentes<span class="sf-sub-indicator"></span></a>
+					<ul>
+						<li><a href="http://www2.assemblee-nationale.fr/15/commissions-permanentes/commission-des-affaires-culturelles">Affaires culturelles</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/commissions-permanentes/commission-des-affaires-economiques">Affaires économiques</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/commissions-permanentes/commission-des-affaires-etrangeres">Affaires étrangères</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/commissions-permanentes/commission-des-affaires-sociales">Affaires sociales</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/commissions-permanentes/commission-de-la-defense">Défense</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/commissions-permanentes/commission-du-developpement-durable">Développement durable</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/commissions-permanentes/commission-des-finances">Finances</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/commissions-permanentes/commission-des-lois">Lois</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="#">Autres commissions<span class="sf-sub-indicator"></span></a>
+					<ul>
+						<li><a href="http://www2.assemblee-nationale.fr/15/autres-commissions/commission-des-affaires-europeennes">Affaires européennes</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/autres-commissions/commissions-d-enquete">Commissions d'enquête</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/autres-commissions/commissions-speciales">Commissions spéciales</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/autres-commissions/commissions-mixtes-paritaires-composition">Commissions mixtes paritaires</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/autres-commissions/commission-speciale-chargee-de-verifier-et-d-apurer-les-comptes">Commission chargée d'apurer les comptes</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/autres-commissions/commission-chargee-de-l-application-de-l-article-26-de-la-constitution">Commission-article 26 de la Constitution</a></li>
+	
+					</ul>
+				</li>
+				<li>
+					<a href="#">Délégations, comité, office et autres instances<span class="sf-sub-indicator"></span></a>
+					<ul>
+						<li><a href="http://www2.assemblee-nationale.fr/15/les-delegations-comite-et-office-parlementaire/delegation-aux-droits-des-femmes">Délégation aux Droits<br> des Femmes</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/les-delegations-comite-et-office-parlementaire/delegation-aux-collectivites-territoriales-et-a-la-decentralisation">Délégation aux collectivités territoriales et à la décentralisation</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/les-delegations-comite-et-office-parlementaire/delegation-aux-outre-mer">Délégation aux outre-mer</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/les-delegations-comite-et-office-parlementaire/delegation-parlementaire-au-renseignement">Délégation au renseignement</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/les-delegations-comite-et-office-parlementaire/comite-d-evaluation-et-de-controle">Comité d'évaluation et de contrôle</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/les-delegations-comite-et-office-parlementaire/office-parlementaire-d-evaluation-des-choix-scientifiques-et-technologiques">Office parlementaire d'évaluation des choix scientifiques et technologiques (OPECST)</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/qui/pour-une-nouvelle-assemblee-nationale-les-rendez-vous-des-reformes-2017-2022">Groupes de travail des réformes</a></li>
+					</ul>
+				</li>
+				<li><a href="http://www2.assemblee-nationale.fr/15/missions-d-information">Missions d'information</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/15/les-groupes-d-etudes">Groupes d'études</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/commissions-et-autres-instances/organismes-extra-parlementaires/organismes-extra-parlementaires">Organismes extra-parlementaires</a></li>
+				<li>
+					<a href="#">Archives<span class="sf-sub-indicator"></span></a>
+					<ul>
+						<li><a href="http://www.assemblee-nationale.fr/14/documents/archives-14leg.asp">XIV<sup>e</sup> législature</a></li>                        
+						<li><a href="http://www.assemblee-nationale.fr/13/documents/archives-13leg.asp">XIII<sup>e</sup> législature</a></li>
+						<li><a href="http://www.assemblee-nationale.fr/12/documents/archives-12leg.asp">XII<sup>e</sup> législature</a></li>
+						<li><a href="http://www.assemblee-nationale.fr/11/documents/archives-11leg.asp">XI<sup>e</sup> législature</a></li>
+						<li><a href="http://archives.assemblee-nationale.fr/">Autres législatures</a></li>
+					</ul>
+				</li>
+				<li class="d-none"><a href="#nav-docs">Ouvrir le menu documents parlementaires</a></li>
+			</ul>
+		</li>
+		<li tabindex="4" id="nav-docs">
+			<a title="Ouvrir le menu documents parlementaires" href="#menudoc">Documents<br />parlementaires<span class="bord"> </span></a>
+			<ul>	
+				<li>
+					<a id="menudoc" href="#">Documents de références<span class="sf-sub-indicator"></span></a>
+					<ul>
+						<li><a href="http://www.assemblee-nationale.fr/connaissance/constitution.asp">Constitution</a></li>
+						<li><a href="http://www.assemblee-nationale.fr/connaissance/reglement.asp">Règlement de l'Assemblée nationale</a></li>
+						<li><a href="http://www.assemblee-nationale.fr/connaissance/instruction.asp">Instruction générale du Bureau (IGB)</a></li> 
+						<li><a href="http://www.assemblee-nationale.fr/connaissance/loi15042009.asp">Loi organique n°&amp;2009-403 du 15 avril 2009</a></li>
+						<li><a href="http://www.assemblee-nationale.fr/connaissance/reglement_congres.asp">Règlement du Congrès</a></li> 
+						<li><a href="http://www.assemblee-nationale.fr/connaissance/pouvoirs-publics/pouvoirs_publics-08.asp#P13383_1259070">Ordonnance relative au fonctionnement des assemblées parlementaires</a></li> 
+						<li><a href="http://www.assemblee-nationale.fr/connaissance/ordonnance-finances.asp">Loi organique relative aux lois de finances</a></li> 
+						<li><a href="http://www.assemblee-nationale.fr/connaissance/pouvoirs-publics/pouvoirs_publics.asp">Recueil des textes relatifs aux pouvoirs publics</a></li> 
+					</ul>
+				</li>
+				<li><a href="http://www.assemblee-nationale.fr/15/documents/index-projets.asp">Projets de loi</a></li>
+				<li><a href="http://www.assemblee-nationale.fr/15/documents/index-proposition.asp">Propositions de loi</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/recherche/amendements">Amendements</a></li>
+				<li><a href="http://www.assemblee-nationale.fr/15/documents/index-ta.asp">Textes adoptés</a></li>
+				<li><a href="http://www.assemblee-nationale.fr/15/documents/index-rapports.asp">Rapports législatifs</a></li>
+				<li><a href="http://www.assemblee-nationale.fr/15/documents/index-dossier.asp">Dossiers législatifs</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/dans-l-hemicycle/budget-et-securite-sociale">Documents budgétaires</a></li>
+				<li><a href="http://www.assemblee-nationale.fr/15/liste/rapport_information1.asp">Rapports d'information</a></li>
+				<li><a href="http://www.assemblee-nationale.fr/15/liste/rapport_application_lois1.asp">Rapports sur l'application de la loi</a></li>
+				<li><a href="http://www.assemblee-nationale.fr/controle/questions.asp">Questions écrites et orales</a></li>
+				<li><a href="http://www.assemblee-nationale.fr/15/documents/motions.asp">Motions et résolutions européennes</a></li>
+				<li><a href="http://www.assemblee-nationale.fr/15/documents/autres-motions.asp">Autres motions et résolutions</a></li>
+				<li><a href="http://www.assemblee-nationale.fr/documents/index.asp">Tous les documents parlementaires</a></li>
+				<li class="d-none"><a href="#nav-international">Ouvrir le menu europe et international</a></li>
+			</ul>
+		</li>
+		<li tabindex="5" id="nav-international">
+			<a title="Ouvrir le menu europe et international" href="#menuinter">Europe<br />et international<span class="bord"> </span></a>
+			<ul>								
+				<li><a id="menuinter" href="http://www2.assemblee-nationale.fr/agendas/agenda-international">L'agenda européen et international</a></li>
+				<li><a id="menueurope" href="#">L'Assemblée nationale et l'Europe<span class="sf-sub-indicator"></span></a>
+					<ul>
+						<li><a href="http://www2.assemblee-nationale.fr/15/autres-commissions/commission-des-affaires-europeennes">La Commission des Affaires européennes</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/europe-et-international/activites-parlementaires-internationales/les-assemblees-parlementaires-internationales/assemblee-parlementaire-du-conseil-de-l-europe">L’Assemblée parlementaire du Conseil de l’Europe</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/europe-et-international/activites-parlementaires-internationales/les-relations-parlementaires-franco-allemandes">Les relations franco-allemandes</a></li>
+					</ul>
+				</li>
+				<li><a href="http://www2.assemblee-nationale.fr/europe-et-international/activites-parlementaires-internationales">Activités parlementaires internationales</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/europe-et-international/activites-parlementaires-internationales/les-groupes-d-amitie-parlementaires">Groupes d'amitié</a></li>
+				<li class="d-none"><a href="#nav-ass-nat">Ouvrir le menu découvrir l'Assemblée</a></li>
+			</ul>
+		</li>
+		<li tabindex="6" id="nav-ass-nat">
+			<a title="Ouvrir le menu découvrir l'Assemblée" href="#menubienvenue">Découvrir<br />l'Assemblée<span class="bord"> </span></a>
+			<ul>
+				<li><a id="menubienvenue" href="http://www.assemblee-nationale.fr/connaissance/bienvenue.asp">Bienvenue à l'Assemblée nationale</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/decouvrir-l-assemblee/visiter-l-assemblee-nationale">Visiter l'Assemblée nationale</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/decouvrir-l-assemblee/ouverture-de-l-assemblee-aux-chercheurs2">Ouverture de l'Assemblée aux chercheurs</a></li>			
+				<li><a href="http://www2.assemblee-nationale.fr/decouvrir-l-assemblee/role-et-pouvoirs-de-l-assemblee-nationale">Rôle et pouvoirs de l'Assemblée</a></li>
+				<li>
+					<a href="#">Statistiques<span class="sf-sub-indicator"></span></a>
+					<ul>
+						<li><a href="http://www2.assemblee-nationale.fr/15/statistiques-de-l-activite-parlementaire">Statistiques de la session en cours</a></li>
+						<li><a href="http://www2.assemblee-nationale.fr/15/statistiques-de-l-activite-parlementaire/bulletins-annuels">Bulletins annuels</a></li>
+					</ul>
+				</li>
+				<li><a href="http://www2.assemblee-nationale.fr/decouvrir-l-assemblee/les-comptes-de-l-assemblee-nationale">Comptes de l'Assemblée</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire">Histoire</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/decouvrir-l-assemblee/patrimoine">Patrimoine</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/decouvrir-l-assemblee/juniors">Juniors</a></li>
+				<li><a href="http://archives.assemblee-nationale.fr/">Site des archives de l'Assemblée nationale</a></li>
+				<li class="d-none"><a href="#nav-infos">Ouvrir le menu informations pratiques  </a></li>
+			</ul>
+		</li>
+		<li tabindex="7" id="nav-infos">
+			<a title="Ouvrir le menu informations pratiques" href="#menuserendre">Informations<br />pratiques<span class="bord"></span></a>
+			<ul>
+				<li><a href="http://www.assemblee-nationale.fr/infos/services.asp">Les services de l’Assemblée</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/informations-pratiques/concours-stages-et-apprentissage">Concours et recrutement</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/informations-pratiques/marches-publics">Marchés publics</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/informations-pratiques/archives-et-bibliotheque">Bibliothèque et archives</a></li>
+				<li><a href="http://www2.assemblee-nationale.fr/informations-pratiques/contacts-et-plan-d-acces">Contact et plan d'accès</a></li>
+			</ul>
+		</li>
+	</ul>
+</nav>		</div>
+		<div id="page-fond" class="clearfix">
+			<div id="page" class="clearfix">
+				<div class="clearfix">
+						<section>
+				<div id="haut-contenu-page" class="clearfix">
+			<div class="interieur-contenu-principal clearfix">
+				<ol class="breadcrumb">
+					<li class="sr-only">Vous êtes ici :</li>
+					<li><a href="http://www.assemblee-nationale.fr/">Accueil</a> </li>
+					<li><a href="/dyn/10/dossiers">Liste des dossiers législatifs</a> </li>
+					<li class="active">Collectivités : baux ruraux pour les communes d&#039;au plus 3.500 habitants</li>
+				</ol>
+			</div>
+			<div data-dossier-id="DLR5L10N20996" class="titre-bandeau-bleu clearfix bottommargin-lg ">
+				<h1>Collectivités : baux ruraux pour les communes d&#039;au plus 3.500 habitants</h1>
+				    			<p class="deputy-healine-sub-title">Proposition de loi</p>
+				
+
+
+<div class="partage-sur-reseaux left clearfix">
+	<p>
+		
+<span class="cartouche">
+	        <a title="Partager &laquo;Collectivités : baux ruraux pour les communes d&#039;au plus 3.500 habitants&raquo; sur Facebook" href="http://www.facebook.com/sharer.php?s=100&amp;p[url]=http%253A%252F%252Fwww.assemblee-nationale.fr%252Fdyn%252F10%252Fdossiers%252F9602399596&amp;amp;p[title]=Collectivit%C3%A9s%20%3A%20baux%20ruraux%20pour%20les%20communes%20d%27au%20plus%203.500%20habitants" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=700');return false;">
+            <i class="fa fa-facebook"></i>
+        </a>
+	</span>		<span class="cartouche">
+	
+        <a title="Partager &laquo;Collectivités : baux ruraux pour les communes d&#039;au plus 3.500 habitants&laquo; sur Twitter" href="https://twitter.com/intent/tweet?url=http://www.assemblee-nationale.fr/dyn/10/dossiers/9602399596&text=Collectivités : baux ruraux pour les communes d&#039;au plus 3.500 habitants&lang=fr" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=700');return false;">
+            <i class="fa fa-twitter"></i>
+        </a>
+	</span>		<span class="cartouche">
+	<a id="instagram" title="Retrouvez l'Assemblée nationale sur Instagram" class="instagram" name="instagram" href="https://www.instagram.com/assembleenationale/">
+		<i class="fa fa-instagram"></i>
+	</a>
+</span>
+	</p>
+</div>				<a class="btn btn-primary btn-lg version" href="/dyn/10/dossiers/alt/9602399596" role="button" title="Accédez à la version dépliée du dossier législatif">Tout le dossier en une page</a>
+			</div>
+			<div class="image-tabmat-ajax clearfix" style="opacity: 1;display:block;"><i class="fa fa-refresh fa-spin"></i></div>
+			<div class="hideAll">
+						            			
+							<article>
+					<div class="container navigation clearfix">
+						<div class="row clearfix">
+								<div class="les-procedures p-0 col-12">
+    <h2 class="sr-only">Navigation dans les étapes de la procédure</h2>
+    <div>
+        <div class="nav-etapes-carousel">
+                                                                                                <div class="etat-inactif" data-codeacte="10-SN1-DEPOT">
+                        <div class="profil-procedure clearfix">
+                            <span class="leg-etape">10ème lég.</span>                            <a class="image-procedure flip" data-etape="" data-codeacte="10-SN1-DEPOT">
+                                <img class="logo" src="/dyn/bundles/app/assets/images/dosleg/procedure-senat.jpg" alt="" />
+                                <span class="nom-procedure">
+                                                                            Dépôt
+                                                                    </span>
+                                 <span class="date-etape">21/02/96</span>                            </a>
+                        </div>
+                    </div>
+                    <!-- Stockage dans une string des options composant le selecteur html que l'on affichera en dessous de la frise s'il y a plus d'une étape-->
+                                                                                                                        <div class="etat-inactif" data-codeacte="10-SN1">
+                        <div class="profil-procedure clearfix">
+                            <span class="leg-etape">10ème lég.</span>                            <a class="image-procedure flip" data-etape="" data-codeacte="10-SN1">
+                                <img class="logo" src="/dyn/bundles/app/assets/images/dosleg/procedure-senat.jpg" alt="" />
+                                <span class="nom-procedure">
+                                                                            1ère lecture
+                                                                    </span>
+                                                            </a>
+                        </div>
+                    </div>
+                    <!-- Stockage dans une string des options composant le selecteur html que l'on affichera en dessous de la frise s'il y a plus d'une étape-->
+                                                                                                                        <div class="etat-inactif" data-codeacte="12-AN1">
+                        <div class="profil-procedure clearfix">
+                            <span class="leg-etape">12ème lég.</span>                            <a class="image-procedure flip" data-etape="" data-codeacte="12-AN1">
+                                <img class="logo" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" alt="" />
+                                <span class="nom-procedure">
+                                                                            1ère lecture
+                                                                    </span>
+                                                            </a>
+                        </div>
+                    </div>
+                    <!-- Stockage dans une string des options composant le selecteur html que l'on affichera en dessous de la frise s'il y a plus d'une étape-->
+                                                                                                                        <div class="etat-inactif" data-codeacte="13-AN1">
+                        <div class="profil-procedure clearfix">
+                            <span class="leg-etape">13ème lég.</span>                            <a class="image-procedure flip" data-etape="" data-codeacte="13-AN1">
+                                <img class="logo" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" alt="" />
+                                <span class="nom-procedure">
+                                                                            1ère lecture
+                                                                    </span>
+                                                            </a>
+                        </div>
+                    </div>
+                    <!-- Stockage dans une string des options composant le selecteur html que l'on affichera en dessous de la frise s'il y a plus d'une étape-->
+                                                                                                                        <div class="etat-inactif" data-codeacte="14-AN1">
+                        <div class="profil-procedure clearfix">
+                            <span class="leg-etape">14ème lég.</span>                            <a class="image-procedure flip" data-etape="" data-codeacte="14-AN1">
+                                <img class="logo" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" alt="" />
+                                <span class="nom-procedure">
+                                                                            1ère lecture
+                                                                    </span>
+                                                            </a>
+                        </div>
+                    </div>
+                    <!-- Stockage dans une string des options composant le selecteur html que l'on affichera en dessous de la frise s'il y a plus d'une étape-->
+                                                                                                                                                    <div class="etat-actif" data-codeacte="15-AN1">
+                        <div class="profil-procedure clearfix">
+                            <span class="leg-etape">15ème lég.</span>                            <a class="image-procedure flip" data-etape="" data-codeacte="15-AN1">
+                                <img class="logo" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" alt="" />
+                                <span class="nom-procedure">
+                                                                            1ère lecture
+                                                                    </span>
+                                                            </a>
+                        </div>
+                    </div>
+                    <!-- Stockage dans une string des options composant le selecteur html que l'on affichera en dessous de la frise s'il y a plus d'une étape-->
+                                                                                                                        </div>
+                                            </div>
+                <div class="text-center les-procedures-bas">
+            <select autocomplete="off" class="etapes-select">
+                                                                                                                                                                                        
+                            <option value="10-SN1-DEPOT" >
+                                                                    Dépôt au Sénat
+                                                            </option>
+                        
+                            <option value="10-SN1" >
+                                                                    1ère lecture au Sénat
+                                                            </option>
+                        
+                            <option value="12-AN1" >
+                                                                    1ère lecture à l&#039;Assemblée nationale
+                                                            </option>
+                        
+                            <option value="13-AN1" >
+                                                                    1ère lecture à l&#039;Assemblée nationale
+                                                            </option>
+                        
+                            <option value="14-AN1" >
+                                                                    1ère lecture à l&#039;Assemblée nationale
+                                                            </option>
+                        
+                            <option value="15-AN1" selected="selected">
+                                                                    1ère lecture à l&#039;Assemblée nationale
+                                                            </option>
+                        
+            </select>
+        </div>
+        <a class="carousel-control-prev" href="#nav-etapes" role="button" data-slide="prev" style="display: none" title="Etapes précédentes">
+        <span class="carousel-control-prev-icon" aria-hidden="true"><i class="fa fa-chevron-left" aria-hidden="true"></i></span>
+        <span class="sr-only">Etapes précédentes</span>
+    </a>
+    <a class="carousel-control-next" href="#nav-etapes" role="button" data-slide="next" style="display: none" title="Etapes suivantes">
+        <span class="carousel-control-next-icon" aria-hidden="true"><i class="fa fa-chevron-right" aria-hidden="true"></i></span>
+        <span class="sr-only">Etapes suivantes</span>
+    </a>
+</div>
+						</div>
+					</div>
+				</article>
+						</div>
+		</div>
+	</section>
+	<section>
+		<div id="contenu-page" class="dossier-contenu clearfix sans-haut">
+			<article>
+				<div class="m-0 clearfix hideAll">
+					<div class="m-0 pb-0 clearfix">
+						<div class="fiche-procedure" data-id_omc="DLR5L10N20996">
+							<h2 class="sr-only">Les étapes de la procédure</h2>
+																	    <div class="fiche-procedure-haut-bas mb-4 mt-4 clearfix" data-codeacte="10-SN1-DEPOT" style="display:none">
+				<p class="element-droite">
+			<a class="etapes suivante flip" href="#" title="" data-codeacte="10-SN1">
+				<img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-senat.jpg" /> 1ère lecture <i class="fa fa-chevron-right"></i>
+			</a>
+		</p>
+	</div>
+<div id="10-SN1-DEPOT" class="fiche-procedure-contenu clearfix" data-codeacte="10-SN1-DEPOT" style="display:none">
+	<div class="cartouche">
+	<div class="titre">
+		<h3>
+			<img class="logo" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-senat.jpg" />
+							Dépôt : Proposition de loi
+						<span class="sr-only">au Sénat</span>
+							<span class="titre-majuscul-gris-senat alt"><a href="http://www.senat.fr/dossier-legislatif/s95960239.html">(Dossier en ligne sur le site du Sénat)</a></span>
+													<span class="titre-majuscul-blanc">10ème législature</span>
+					</h3>
+	</div>
+	    								   				<div class="bg-white m-4 row">
+							<div class="col-8 pt-2 pl-0"  data-id="L10-VD122435DI">
+					<div class="card docparl border-0">
+																					             
+         
+         
+                                            	        		                                                                		                                                                                                    		 
+		            		        <div class="card-body pt-2 pb-2" data-document-id="PIONSNR5S165B0239">
+                                                    <a class="p-0" title="Accédez à la version html du document" href="http://www.senat.fr/leg/ppl95-239.html">Proposition de loi   tendant à autoriser les élus des communes comptant 3.500 habitants au plus à conclure des baux ruraux avec leur collectivité<b> , n°&nbsp;239 </b></a>
+                            <span>, déposé(e) le mercredi 21 février 1996</span>
+                                                                        </div>
+        																										</div>
+				</div>
+										<div class="carrousel-auteurs-rapporteurs col-4 pt-3 pb-4 pl-0">
+					
+	<div>
+	<p class="h1">    		
+		L'auteur de la proposition	</p>
+	<div class="clearfix">
+		<div class="carrousel-auto-false liste-personne auto">
+			
+
+<p class="controle-pagination pb-4 clearfix" style="display:block">
+			<a href="#precedent" title="Précédent" class="bouton-pagination precedent ">‹</a>
+		<span class="page-pagination "></span>
+		<a href="#suivant" title="Suivant" class="bouton-pagination suivant ">›</a>
+	</p>			<ul class="ml-0">
+									<li>
+												<div class="profil-personne clearfix">
+	<p class="image-personne">
+					<a href="https://www.senat.fr/senateur/vincon_serge89045v.html"><img src="https://www.senat.fr/senimg/vincon_serge89045v.jpg" alt=""></a>
+			</p>
+	<p class="nom-personne">
+					<a href="https://www.senat.fr/senateur/vincon_serge89045v.html">M. Serge Vinçon</a>
+			<span class="senateur"><img src="/dyn/bundles/app/assets/images/dosleg/procedure-senat.jpg"/></span>
+			</p>
+		<p class="liens-personne">
+					<a title="Voir sa fiche" href="https://www.senat.fr/senateur/vincon_serge89045v.html"><img src="/dyn/bundles/app/assets/images/icone/icone-profil.png" alt=""></a>
+		
+					</p>
+</div>
+										</li>
+							</ul>
+		</div>
+	</div>
+	<div class="mt-4">
+					<a class="center" data-target="#cosignataires" data-toggle="modal" href="#">Tous les cosignataires</a>
+			</div>
+</div>
+	
+				</div>
+					</div>		
+				<div class="interieur-contenu-principal clearfix p-0 mt-4">
+					</div>
+		</div>							</div>
+    <div class="fiche-procedure-haut-bas mb-4 mt-4 clearfix" data-codeacte="10-SN1-DEPOT" style="display:none">
+				<p class="element-droite">
+			<a class="etapes suivante flip" href="#" title="" data-codeacte="10-SN1">
+				<img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-senat.jpg" /> 1ère lecture <i class="fa fa-chevron-right"></i>
+			</a>
+		</p>
+	</div>    <div id="cosignataires" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<p class="modal-title" id="myModalLabel">Les cosignataires</p>
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div id="cosignataires-liste" class="modal-body">
+														                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA492">
+                        						M. Roger Besse</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA532">
+                        						M. Paul Blanc</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA656">
+                        						M. Gérard Braun</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA714">
+                        						M. Robert Calméjane</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA781">
+                        						M. Auguste Cazalet</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA838">
+                        						M. Jacques Chaumont</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA945">
+                        						M. Jean-Patrick Courtois</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1438">
+                        						M. Philippe de Gaulle</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1158">
+                        						M. Michel Doublet</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1183">
+                        						M. Alain Dufaut</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1447">
+                        						M. Patrice Gélard</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1460">
+                        						M. Alain Gérard</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1523">
+                        						M. Daniel Goulet</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1563">
+                        						M. Georges Gruillot</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA1879">
+                        						M. Jean-François Le Grand</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2093">
+                        						M. Pierre Martin</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2292">
+                        						Mme Nelly Olin</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2539">
+                        						M. Victor Reux</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2708">
+                        						M. Jean-Pierre Schosteck</a>,
+																			                   									<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2758">
+                        						M. Louis Souvet</a>,
+																																<a href="http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA2860">
+												M. Jacques Valade</a>.
+												</div>
+			<div class="modal-footer">
+				<button class="btn btn-secondary" data-dismiss="modal" aria-hidden="true">Fermer</button>
+			</div>
+		</div>
+	</div>
+</div>																	    <div class="fiche-procedure-haut-bas mb-4 mt-4 clearfix" data-codeacte="10-SN1" style="display:none">
+			<p class="element-gauche">
+			<a class="etapes precedente" href="#" data-codeacte="10-SN1-DEPOT"><i class="fa fa-chevron-left"></i> Dépôt <img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-senat.jpg" /></a>
+		</p>
+				<p class="element-droite">
+			<a class="etapes suivante flip" href="#" title="" data-codeacte="12-AN1">
+				<img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" /> 1ère lecture <i class="fa fa-chevron-right"></i>
+			</a>
+		</p>
+	</div>
+<div id="10-SN1" class="fiche-procedure-contenu clearfix" data-codeacte="10-SN1" style="display:none">
+	<div class="cartouche">
+	<div class="titre">
+		<h3>
+			<img class="logo" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-senat.jpg" />
+												<span data-id="L10-SN1-20996">1ère lecture</span>
+										<span class="sr-only">au Sénat</span>
+							<span class="titre-majuscul-gris-senat alt"><a href="http://www.senat.fr/dossier-legislatif/s95960239.html">(Dossier en ligne sur le site du Sénat)</a></span>
+													<span class="titre-majuscul-blanc">10ème législature</span>
+					</h3>
+	</div>
+	 
+																   				<div class="bg-white m-4 row">
+							<div class="col-12 pt-2 pb-4 pl-0 pr-2"  data-id="L10-VD122435DI">
+					<div class="card docparl border-0">
+																					             
+         
+         
+                                            	        		                                                                		                                                                                                    		 
+		            		        <div class="card-body pt-2 pb-2" data-document-id="PIONSNR5S165B0239">
+                                                    <a class="p-0" title="Accédez à la version html du document" href="http://www.senat.fr/leg/ppl95-239.html">Proposition de loi   tendant à autoriser les élus des communes comptant 3.500 habitants au plus à conclure des baux ruraux avec leur collectivité<b> , n°&nbsp;239 </b></a>
+                            <span>, déposé(e) le mercredi 21 février 1996</span>
+                                        <p class="m-0"><b>et renvoyé(e) à la Commission des lois constitutionnelles, de législation, du suffrage universel, du Règlement et d&#039;administration générale</b></p>
+                                                            </div>
+        																										</div>
+				</div>
+								</div>		
+			</div>					<div class="fonctions-tab-selection ">      
+				<ul class="nav nav-tabs no-js">
+																												<li class="com"><a class="tab-lien text-center com" href="#acte-SN1-COM">Examen en commission</a></li>
+						
+																																																			<li class="ta"><a class="tab-lien text-center ta" href="#acte-SN1-DEBATS-DEC">Texte adopté</a></li>
+						
+									</ul>
+				<div class="tab-content">
+											<div id="acte-SN1-COM" class="tab-pane non-ajax"> 
+							<div class="titre-sans-js clearfix">
+								<h4>Examen en commission</h4>
+							</div>
+									<div class="clearfix sn1 com" data-id="L10-SN1-COM-20996">
+						<h5 class="pb-2">
+	<span class="acte commission m-0" data-id="L10-VD122436CF">Commission des lois constitutionnelles, de législation, du suffrage universel, du Règlement et d&#039;administration générale
+					<span class="titre-majuscul-gris block">
+		       Commission saisie au fond
+		      		    </span>
+						</span>
+</h5> 
+
+
+
+																	  
+																																												
+	
+	
+			<div class="card-deck mb-4 ml-0 mr-0">
+										<div class="card">
+    <h6 class="card-header border-0" data-id="L10-VD122439">
+																				Rapporteure
+															</h6>
+    <div class="card-body bg-white pt-2 pb-2">
+								<p class="m-0">
+									La commission a nommé
+															, rapporteure.
+									    		</p>
+				
+	    	    </div>
+			<div class="card-footer border-0">
+			<small class="text-muted">
+				Nomination : mercredi 21 février 1996   
+			</small>
+		</div>
+	</div>      				</div>
+	
+						<div class="card-deck mb-4 ml-0 mr-0">
+																	    <div class="card docparl">
+    <h6 class="card-header border-0" data-id="L10-VD122438">
+                                        	Rapport de la  commission                        </h6>
+                                 
+         
+         
+                                            	        		                                                                		                                                                                                    		 
+		            		        <div class="card-body pt-2 pb-2" data-document-id="RAPPSNR5S165B0314">
+                                                    <a class="p-0" title="Accédez à la version html du document" href="http://www.senat.fr/rap/l95-314/l95-314.html">Rapport  sur la proposition de loi de MM. Serge VINÇON, Roger BESSE, Paul BLANC, Gérard BRAUN, Robert CALMÉJANE, Auguste CAZALET, Jacques CHAUMONT, Jean-Patrick COURTOIS, Philippe DE GAULLE, Michel DOUBLET, Alain DUFAUT, Patrice GÉLARD, Alain GÉRARD, Daniel GOULET, Georges GRUILLOT, Jean-François LE GRAND, Pierre MARTIN, Mme Nelly OLIN, MM. Victor REUX, Jean-Pierre SCHOSTECK, Louis SOUVET et Jacques VALADE  tendant à autoriser les élus des communes comptant 3.500 habitants au plus à conclure des baux ruraux avec leur collectivité (239)<b> , n°&nbsp;314 </b></a>
+                                                                        </div>
+        		                    <div class="card-footer border-0">
+            <small class="text-muted">Dépot : mercredi 17 avril 1996</small>
+        </div>
+    </div>																								</div>
+		
+				
+	
+		
+	
+			</div>
+						</div>
+											<div id="acte-SN1-DEBATS-DEC" class="tab-pane non-ajax"> 
+							<div class="titre-sans-js clearfix">
+								<h4>Texte adopté</h4>
+							</div>
+							    
+    
+<div class="p-4 clearfix">
+        <div class="card sn1 debats dec docparl">
+        <h5 class="card-header border-0" data-id="L11-VD122437DEC">
+            Texte adopté        </h5>
+                               
+                         
+         
+         
+                                            	        		                                                                		                                                                                                    		 
+		            		        <div class="card-body pt-2 pb-2" data-document-id="PIONSNR5S167BTA0079">
+                                                    <a class="p-0" title="Accédez à la version html du document" href="http://www.senat.fr/leg/tas97-079.html">Proposition de loi   tendant à autoriser les élus des communes comptant 3.500 habitants au plus à conclure des baux ruraux avec leur collectivité le 10 février 1998<b> , T.A.&nbsp;n°&nbsp;0079 </b></a>
+                                                                        </div>
+        		       
+        	</div>
+        </div>						</div>
+									</div>
+							</div>
+		</div>
+    <div class="fiche-procedure-haut-bas mb-4 mt-4 clearfix" data-codeacte="10-SN1" style="display:none">
+			<p class="element-gauche">
+			<a class="etapes precedente" href="#" data-codeacte="10-SN1-DEPOT"><i class="fa fa-chevron-left"></i> Dépôt <img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-senat.jpg" /></a>
+		</p>
+				<p class="element-droite">
+			<a class="etapes suivante flip" href="#" title="" data-codeacte="12-AN1">
+				<img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" /> 1ère lecture <i class="fa fa-chevron-right"></i>
+			</a>
+		</p>
+	</div>																	    <div class="fiche-procedure-haut-bas mb-4 mt-4 clearfix" data-codeacte="12-AN1" style="display:none">
+			<p class="element-gauche">
+			<a class="etapes precedente" href="#" data-codeacte="10-SN1"><i class="fa fa-chevron-left"></i> 1ère lecture <img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-senat.jpg" /></a>
+		</p>
+				<p class="element-droite">
+			<a class="etapes suivante flip" href="#" title="" data-codeacte="13-AN1">
+				<img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" /> 1ère lecture <i class="fa fa-chevron-right"></i>
+			</a>
+		</p>
+	</div>
+<div id="12-AN1" class="fiche-procedure-contenu clearfix" data-codeacte="12-AN1" style="display:none">
+	<div class="cartouche">
+	<div class="titre">
+		<h3>
+			<img class="logo" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" />
+												<span data-id="L12-AN1-20996">1ère lecture</span>
+										<span class="sr-only">à l&#039;Assemblée nationale</span>
+													<span class="titre-majuscul-blanc">12ème législature</span>
+					</h3>
+	</div>
+	 
+																   				<div class="bg-white m-4 row">
+							<div class="col-12 pt-2 pb-4 pl-0 pr-2"  data-id="L12-VD122440DIN">
+					<div class="card docparl border-0">
+																					             
+         
+         
+                                            	        		                                                                		                                                                                                    		               
+        		                    <div class="card-body pb-0 pt-2" data-document-id="PIONANR5L12B0077">
+                                                                                        <a class="p-0" target="_blank" title="Accédez à la version html du document" href="http://www.assemblee-nationale.fr/12/propositions/pion0077.asp">Proposition de loi   tendant à autoriser les élus des communes comptant 3.500 habitants au plus à conclure des baux ruraux avec leur collectivité<b> , n°&nbsp;77 </b></a>
+                                                    <span>, déposé(e) le mercredi 17 juillet 2002</span>
+                                                    <p class="m-0"><b>et renvoyé(e) à la Commission des lois constitutionnelles, de la législation et de l&#039;administration générale de la République</b></p>
+                                                                                </div>
+        
+         
+																										</div>
+				</div>
+								</div>		
+			</div>							</div>
+    <div class="fiche-procedure-haut-bas mb-4 mt-4 clearfix" data-codeacte="12-AN1" style="display:none">
+			<p class="element-gauche">
+			<a class="etapes precedente" href="#" data-codeacte="10-SN1"><i class="fa fa-chevron-left"></i> 1ère lecture <img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-senat.jpg" /></a>
+		</p>
+				<p class="element-droite">
+			<a class="etapes suivante flip" href="#" title="" data-codeacte="13-AN1">
+				<img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" /> 1ère lecture <i class="fa fa-chevron-right"></i>
+			</a>
+		</p>
+	</div>																	    <div class="fiche-procedure-haut-bas mb-4 mt-4 clearfix" data-codeacte="13-AN1" style="display:none">
+			<p class="element-gauche">
+			<a class="etapes precedente" href="#" data-codeacte="12-AN1"><i class="fa fa-chevron-left"></i> 1ère lecture <img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" /></a>
+		</p>
+				<p class="element-droite">
+			<a class="etapes suivante flip" href="#" title="" data-codeacte="14-AN1">
+				<img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" /> 1ère lecture <i class="fa fa-chevron-right"></i>
+			</a>
+		</p>
+	</div>
+<div id="13-AN1" class="fiche-procedure-contenu clearfix" data-codeacte="13-AN1" style="display:none">
+	<div class="cartouche">
+	<div class="titre">
+		<h3>
+			<img class="logo" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" />
+												<span data-id="L13-AN1-20996">1ère lecture</span>
+										<span class="sr-only">à l&#039;Assemblée nationale</span>
+													<span class="titre-majuscul-blanc">13ème législature</span>
+					</h3>
+	</div>
+	 
+																   				<div class="bg-white m-4 row">
+							<div class="col-12 pt-2 pb-4 pl-0 pr-2"  data-id="L13-VD136476DIN">
+					<div class="card docparl border-0">
+																					             
+         
+         
+                                            	        		                                                                		                                                                                                    		               
+        		                    <div class="card-body pb-0 pt-2" data-document-id="PIONANR5L13B0033">
+                                                                                        <a class="p-0" target="_blank" title="Accédez à la version html du document" href="http://www.assemblee-nationale.fr/13/propositions/pion0033.asp">Proposition de loi   , adoptée par le Sénat, tendant à autoriser les élus des communes comptant 3.500 habitants au plus à conclure des baux ruraux avec leur collectivité<b> , n°&nbsp;33 </b></a>
+                                                    <span>, déposé(e) le mercredi 4 juillet 2007</span>
+                                                    <p class="m-0"><b>et renvoyé(e) à la Commission des lois constitutionnelles, de la législation et de l&#039;administration générale de la République</b></p>
+                                                                                </div>
+        
+         
+																										</div>
+				</div>
+								</div>		
+			</div>							</div>
+    <div class="fiche-procedure-haut-bas mb-4 mt-4 clearfix" data-codeacte="13-AN1" style="display:none">
+			<p class="element-gauche">
+			<a class="etapes precedente" href="#" data-codeacte="12-AN1"><i class="fa fa-chevron-left"></i> 1ère lecture <img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" /></a>
+		</p>
+				<p class="element-droite">
+			<a class="etapes suivante flip" href="#" title="" data-codeacte="14-AN1">
+				<img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" /> 1ère lecture <i class="fa fa-chevron-right"></i>
+			</a>
+		</p>
+	</div>																	    <div class="fiche-procedure-haut-bas mb-4 mt-4 clearfix" data-codeacte="14-AN1" style="display:none">
+			<p class="element-gauche">
+			<a class="etapes precedente" href="#" data-codeacte="13-AN1"><i class="fa fa-chevron-left"></i> 1ère lecture <img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" /></a>
+		</p>
+				<p class="element-droite">
+			<a class="etapes suivante flip" href="#" title="" data-codeacte="15-AN1">
+				<img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" /> 1ère lecture <i class="fa fa-chevron-right"></i>
+			</a>
+		</p>
+	</div>
+<div id="14-AN1" class="fiche-procedure-contenu clearfix" data-codeacte="14-AN1" style="display:none">
+	<div class="cartouche">
+	<div class="titre">
+		<h3>
+			<img class="logo" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" />
+												<span data-id="L14-AN1-20996">1ère lecture</span>
+										<span class="sr-only">à l&#039;Assemblée nationale</span>
+													<span class="titre-majuscul-blanc">14ème législature</span>
+					</h3>
+	</div>
+	 
+																   				<div class="bg-white m-4 row">
+							<div class="col-12 pt-2 pb-4 pl-0 pr-2"  data-id="L14-VD158515DIN">
+					<div class="card docparl border-0">
+																					             
+         
+         
+                                            	        		                                                                		                                                                                                    		               
+        		                    <div class="card-body pb-0 pt-2" data-document-id="PIONANR5L14B0022">
+                                                                                        <a class="p-0" target="_blank" title="Accédez à la version html du document" href="http://www.assemblee-nationale.fr/14/propositions/pion0022.asp">Proposition de loi   tendant à autoriser les élus des communes comptant 3.500 habitants au plus à conclure des baux ruraux avec leur collectivité<b> , n°&nbsp;22 </b></a>
+                                                    <span>, déposé(e) le lundi 2 juillet 2012</span>
+                                                    <p class="m-0"><b>et renvoyé(e) à la Commission des lois constitutionnelles, de la législation et de l&#039;administration générale de la République</b></p>
+                                                                                </div>
+        
+                    <ul class="list-group list-group-flush mini">
+                                                                                        <li class="list-group-item border-0">
+                                                    <a target="_blank" class="badge texte" title="Accédez à la version PDF de ce document" href="http://www.assemblee-nationale.fr/14/pdf/propositions/pion0022.pdf"><i class="fa fa-file-pdf-o "></i> <span>PDF</span></a>
+                                            </li>
+                    <li class="list-group-item border-0 pt-0">
+                                                    <small class="text-muted">Mise en ligne :     jeudi 5 juillet 2012 à 17h45
+</small>                      
+                                            </li>
+                                            </ul>
+         
+																										</div>
+				</div>
+								</div>		
+			</div>							</div>
+    <div class="fiche-procedure-haut-bas mb-4 mt-4 clearfix" data-codeacte="14-AN1" style="display:none">
+			<p class="element-gauche">
+			<a class="etapes precedente" href="#" data-codeacte="13-AN1"><i class="fa fa-chevron-left"></i> 1ère lecture <img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" /></a>
+		</p>
+				<p class="element-droite">
+			<a class="etapes suivante flip" href="#" title="" data-codeacte="15-AN1">
+				<img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" /> 1ère lecture <i class="fa fa-chevron-right"></i>
+			</a>
+		</p>
+	</div>																	    <div class="fiche-procedure-haut-bas mb-4 mt-4 clearfix" data-codeacte="15-AN1" >
+			<p class="element-gauche">
+			<a class="etapes precedente" href="#" data-codeacte="14-AN1"><i class="fa fa-chevron-left"></i> 1ère lecture <img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" /></a>
+		</p>
+				<p class="element-droite"></p>
+	</div>
+<div id="15-AN1" class="fiche-procedure-contenu clearfix" data-codeacte="15-AN1" >
+	<div class="cartouche">
+	<div class="titre">
+		<h3>
+			<img class="logo" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" />
+												<span data-id="L15-AN1-20996">1ère lecture</span>
+										<span class="sr-only">à l&#039;Assemblée nationale</span>
+													<span class="titre-majuscul-blanc">15ème législature</span>
+					</h3>
+	</div>
+	 
+																   				<div class="bg-white m-4 row">
+							<div class="col-12 pt-2 pb-4 pl-0 pr-2"  data-id="L15-VD182095DIN">
+					<div class="card docparl border-0">
+																					             
+         
+         
+                                            	        		                                                                		                                                                                                    		               
+        		                    <div class="card-body pb-0 pt-2" data-document-id="PIONANR5L15B0025">
+                                                                                        <a class="p-0" target="_blank" title="Accédez à la version html du document" href="http://www.assemblee-nationale.fr/15/propositions/pion0025.asp">Proposition de loi  , adoptée par le Sénat, tendant à autoriser les élus des communes comptant 3 500 habitants au plus à conclure des baux ruraux avec leur collectivité<b> , n°&nbsp;25 </b></a>
+                                                    <span>, déposé(e) le jeudi 6 juillet 2017</span>
+                                                    <p class="m-0"><b>et renvoyé(e) à la Commission des lois constitutionnelles, de la législation et de l&#039;administration générale de la République</b></p>
+                                                                                </div>
+        
+                    <ul class="list-group list-group-flush mini">
+                                                                                        <li class="list-group-item border-0">
+                                                    <a target="_blank" class="badge texte" title="Accédez à la version PDF de ce document" href="http://www.assemblee-nationale.fr/15/pdf/propositions/pion0025.pdf"><i class="fa fa-file-pdf-o "></i> <span>PDF</span></a>
+                                            </li>
+                    <li class="list-group-item border-0 pt-0">
+                                                    <small class="text-muted">Mise en ligne :     mercredi 12 juillet 2017 à 16h20
+</small>                      
+                                            </li>
+                                            </ul>
+         
+																										</div>
+				</div>
+								</div>		
+			</div>							</div>
+    <div class="fiche-procedure-haut-bas mb-4 mt-4 clearfix" data-codeacte="15-AN1" >
+			<p class="element-gauche">
+			<a class="etapes precedente" href="#" data-codeacte="14-AN1"><i class="fa fa-chevron-left"></i> 1ère lecture <img class="img-haut-bas" alt="" src="/dyn/bundles/app/assets/images/dosleg/procedure-an.jpg" /></a>
+		</p>
+				<p class="element-droite"></p>
+	</div>														</div>
+					</div>
+				</div>
+			</article>
+					</div>
+	</section>
+				</div>
+			</div>
+		</div>
+		
+		<div id="modal-gestion-cookies" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="modal-gestion-cookies" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="myModalLabel">Gestion de vos préférences sur les cookies</h3>
+            </div>
+            <div class="modal-body">
+                <p class="center">
+                    Certaines fonctionnalités de ce site s'appuient sur des services proposés par des sites tiers.
+                    Ces fonctionnalités déposent des cookies, permettant notamment à ces sites de tracer votre navigation.
+                    Cette fenêtre vous permettra de contrôler ces cookies à l'aide de deux boutons "<strong>Autoriser</strong>" et "<strong>Refuser</strong>".
+                </p>
+                <p class="center" style="border-bottom: 1px solid #e9ecef;padding-bottom:10px;">
+                    Pour en savoir plus sur les cookies (source : <a href="https://www.cnil.fr/fr">CNIL</a>) :<br>
+                    <a target="_blank" href="https://www.cnil.fr/fr/atom/14976" class="btn btn-lg btn-primary center">Qu'est-ce qu'un cookie ?</a>
+                </p>
+                <div>
+                    <h3>Google Analytics</h3>
+                    <p>
+                        Ces cookies nous permettent d'analyser l'audience de nos pages afin de mieux comprendre l'attente de nos visiteurs.<br>
+                    </p>
+                    <p>
+                        Concernant Google Analytics : <a target="_blank" href="https://opt-out.ferank.eu/fr/service/gajs/">En savoir plus</a> - <a target="_blank" href="https://policies.google.com/privacy">Site officiel</a>
+                    </p>
+                    <p class="center">
+                        <button id="autorise-button-cookie-ga" class="btn btn-lg btn-success" onclick="setAcceptCookieGA();">Autoriser les cookies</button>
+                        <button id="interdit-button-cookie-ga" class="btn btn-lg btn-danger" onclick="setRefuseCookieGA();">Interdire les cookies</button>
+                    </p>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn" data-dismiss="modal" aria-hidden="true">Fermer la fenêtre</button>
+            </div>
+        </div>
+    </div>
+</div>		
+			
+			<script src="/dyn/js/85eff0f.js"></script>
+						<script src="/dyn/js/d4bcece.js"></script>
+
+<script>
+       new CookiesCnilBanner(function(){
+           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+               (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+               m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+           })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+           ga('create', 'UA-40085081-1', {'cookieDomain': '.assemblee-nationale.fr'});
+           ga('require', 'linker');
+           ga('send', 'pageview');
+       });
+</script>
+
+<script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js" integrity="sha256-eGE6blurk5sHj+rmkfsGYeKyZx3M4bG+ZlFyA7Kns7E=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+	<script src="/dyn/js/jwplayer.js"></script>
+
+	<script src="/dyn/js/jwplayer.html5.js"></script>
+
+	<script src="/dyn/js/compiled/main.js"></script>
+		
+	<script>
+    	var urlRechercheAmdt= "/dyn/recherche/query_amendements";
+	</script>
+		
+					<footer>
+    <div id="footer-wrap">
+        <div id="footer-content">
+            <div id="footer-tools">
+                <ul>
+                    <li><a href="#top" class="bouton-retourner-haut">Retour haut de page</a></li>
+                    <li><a href="javascript:window.print();" class="bouton-imprimer">Imprimer</a></li>
+                </ul>
+            </div>
+            <div id="footer-links">
+                <dl id="footer-contacts">
+                    <dt>CONTACTEZ-NOUS</dt>
+                    <dd><a href="http://presidence.assemblee-nationale.fr/">Le Président de l'Assemblée nationale</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/qui/xml/liste_alpha.asp?legislature=14">Les députés</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/faq.asp">Le webmestre</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/faq.asp">Renseignements</a></dd>
+                    <dd><a href="#modal-gestion-cookies" role="button" data-toggle="modal">Gestion des cookies</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/presse/index.asp">Contact presse</a></dd>
+                </dl>
+                <dl id="footer-navigation">
+                    <dt>NAVIGATION</dt>
+                    <dd><a href="http://www.assemblee-nationale.fr/">Accueil</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/">Connaître l'Assemblée nationale</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/">Organisation et travaux</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/">Les députés</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/">Informations pratiques</a></dd>
+                </dl>
+                <dl id="footer-acces">
+                    <dt>ACCÈS DIRECTS</dt>
+                    <dd><a href="http://www.assemblee-nationale.fr/agendas/index.asp">Agendas</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/14/liste/texte_examine.asp">Textes examinés</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/14/liste/texte_ordre_du_jour.asp">Textes inscrits à l'ordre du jour</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/14/liste/rapport_information.asp">Rapports d'information</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/14/liste/rapport_application_lois.asp">Rapports sur l'application des lois</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/europe/">Union européenne</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/international/index.asp">Relations internationales</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/controle/questions.asp">Questions écrites et orales</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/presse/index.asp">Espace presse et dépêches AFP</a></dd>
+                </dl>
+                <dl id="footer-services">
+                    <dt>SERVICES EN LIGNE</dt>
+                    <dd><a href="http://www.assemblee-nationale.fr/video/">Le portail vidéo</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/rss/">RSS</a></dd>
+                    <dd><a href="http://www.assemblee.mobi/">Version mobile</a></dd>
+                    <dd><a href="http://boutique.assemblee-nationale.fr/vmchk.html">La Boutique</a></dd>
+                    <dd><a href="http://etudesimpact.assemblee-nationale.fr/">Réagir aux études d'impact</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/marches-publics/index.asp">Marchés publics</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/abonnement.asp">S'abonner aux services en ligne</a></dd>
+                </dl>
+                <dl id="footer-liens">
+                    <dt>LIENS</dt>
+                    <dd><a href="http://www.parlementdesenfants.fr/">Le Parlement des enfants</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/14/tribun/xml/liste_sites.asp">Les sites des députés</a></dd>
+                    <dd><a href="http://www.assemblee-nationale.fr/liens.asp">Sites officiels</a></dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</footer>			<div id="toolbar-container">
+	<div id="toolbar">
+        			<div class="top-links">
+				<ul>
+					<li><a href="http://www2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly">English</a>&nbsp;</li>
+					<li><a href="http://www2.assemblee-nationale.fr/langues/willkommen-auf-der-deutschsprachigen-webseite-der-franzoesischen-nationalversammlung">Deutsch</a>&nbsp;</li>
+					<li><a href="https://secure2.assemblee-nationale.fr/extuser/login"><i class="fa fa-user"></i> S'authentifier</a></li>
+				</ul>
+			</div>
+        		<ul id="toolbar-accessibility">
+			<li><a href="#navigation" accesskey="9">Aller au menu</a></li>
+			<li><a href="#page" accesskey="s">Aller au contenu</a></li>
+			<li><a href="#recherchechampssaisie" accesskey="4">Aller à la recherche</a></li>
+			<li><a href="#" accesskey="0">Politique d’accessibilité</a></li>
+			<li><a href="/index.asp" accesskey="1">Accueil</a></li>
+			<li><a href="/plan.asp" accesskey="3">Plan du site</a></li>
+			<li><a href="/aide.asp" accesskey="6">Aide</a></li>
+			<li><a href="/ecrire.asp" accesskey="7">Contact</a></li>
+		</ul>
+		<div id="toolbar-search">
+			<form method="post" action="http://www2.assemblee-nationale.fr/recherche/resultats_recherche">
+				<input type="text" name="contenu" value="" placeholder="Recherche..." autocomplete="off" />
+				<input type="submit" value="OK" />	
+		   </form>
+		</div>
+	</div>
+</div>			<a id="to-top" class="btn-large" href="#top" title="Retour haut de page"><i class="fa fa-angle-up fa-lg"></i><span class="sr-only">Retour haut de page</span></a>			
+			</body>
+</html>
