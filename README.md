@@ -1,7 +1,9 @@
-### National Assembly - Web Scraping
-#### A 2019 Spring URAP Task
-Extract information from each bill listed on http://www.assemblee-nationale.fr/9/documents/index-dossier.asp and http://www.assemblee-nationale.fr/10/documents/index-dossier.asp, get the politician’s name, bill title, and paragraph content.
+### Web scraper for http://www.assemblee-nationale.fr/
 
-Extract information from each question listed on http://www2.assemblee-nationale.fr/recherche/resultats_questions, get index, name, ministry, date and question content.
+This repo contains code for 
 
-Extract information from each bill listed on http://www.assemblee-nationale.fr/15/propositions/pionxxxx.asp, get index, autheur, date_publication and titre. 
+* extracting author, title, and paragraph content from each bill listed on http://www.assemblee-nationale.fr/9/documents/index-dossier.asp and http://www.assemblee-nationale.fr/10/documents/index-dossier.asp.
+
+* extracting index, name, ministry, date and question content from each question listed on http://www2.assemblee-nationale.fr/recherche/resultats_questions. 
+
+* extracting index, author, date, and title from each bill listed on http://www.assemblee-nationale.fr/15/propositions/pionxxxx.asp. 
